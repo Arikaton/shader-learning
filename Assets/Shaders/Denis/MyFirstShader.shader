@@ -1,4 +1,4 @@
-Shader "Holistick/HelloShader"{
+Shader "Denis/HelloShader"{
 
     Properties {
         _myColour ("Example Colour", Color) = (1, 1, 1, 1)
